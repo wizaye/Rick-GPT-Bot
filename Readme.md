@@ -10,7 +10,7 @@ Welcome to Rick-GPT-Bot, a Discord bot powered by GPT-2 and inspired by the icon
 
 ## Getting Started
 
-1. **Invite the Bot:** Click [here](#https://discord.com/api/oauth2/authorize?client_id=1199756665646493816&permissions=2048&scope=bot) to invite Rick-GPT-Bot to your Discord server.
+1. **Invite the Bot:** Click [here](https://discord.com/api/oauth2/authorize?client_id=1199756665646493816&permissions=2048&scope=bot) to invite Rick-GPT-Bot to your Discord server.
 
 2. **Setup:** After inviting the bot, follow the on-screen instructions to set up the necessary permissions and channels.
 
