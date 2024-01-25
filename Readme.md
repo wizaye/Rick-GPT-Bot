@@ -1,4 +1,4 @@
-![image](https://github.com/wizaye/Rick-GPT-Bot/assets/117831928/adcbcc70-4df3-4666-ad7a-9144d1b95234)# Rick-GPT-Bot
+# Rick-GPT-Bot
 
 Welcome to Rick-GPT-Bot, a Discord bot powered by GPT-2 that engages in dynamic conversations inspired by Rick and Morty!
 
@@ -16,8 +16,7 @@ Welcome to Rick-GPT-Bot, a Discord bot powered by GPT-2 that engages in dynamic 
 
 ## Rick in Action
 
-![Rick-GPT-Bot GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Frickand-morty-what-gif-rickandmorty-rick-what-gifs--828732768919144542%2F&psig=AOvVaw3CpU4bZfj3xoGT5SgMOx9u&ust=1706287361106000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCHyfT9-IMDFQAAAAAdAAAAABAo![image](https://github.com/wizaye/Rick-GPT-Bot/assets/117831928/4565ab1b-5161-4564-8955-eaa3affd3af8)
-)
+
 
 ## Support
 
