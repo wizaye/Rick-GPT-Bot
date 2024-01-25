@@ -16,7 +16,7 @@ Welcome to Rick-GPT-Bot, a Discord bot powered by GPT-2 that engages in dynamic 
 
 ## Rick in Action
 
-
+![Rick-GPT-Bot-In-Action](https://drive.google.com/file/d/16P_kYwfnssnLeRkk2zlTTK9ClqmHfzQv/view?usp=sharing)
 
 ## Support
 
