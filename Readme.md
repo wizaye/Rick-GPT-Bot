@@ -20,7 +20,7 @@ Welcome to Rick-GPT-Bot, a Discord bot powered by GPT-2 that engages in dynamic 
 
 ## Support
 
-For support and inquiries, join our [Discord server](#) or contact us at [support@example.com](mailto:support@example.com).
+For support and inquiries, join our [Discord server](#) or contact us at [vijayendhergatla21@gmail.com](mailto:vijayendhergatla21@gmail.com).
 
 ## License
 
